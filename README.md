@@ -3,6 +3,9 @@
 ## Biblioteca para configurar de forma simples os IOs do Arduino - versão 1.0.0
 
 ### Exemplo:
+
+![plot](Ex01.png)
+
 ```
 
 /*
