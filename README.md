@@ -1,6 +1,6 @@
 # Simples IO
 
-## Biblioteca para configurar de forma simples os IOs do Arduino - versão 1.0.0
+## Biblioteca para configurar de forma simples os IOs do Arduino - versão 1.0.1
 
 ### Exemplo:
 
