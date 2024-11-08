@@ -1,13 +1,10 @@
 # Simples IO
 
-## Biblioteca para configurar de forma simples os IOs do Arduino - versão 1.0.1
-
-Inclusão:
-- Exemplo no proteus
+## Biblioteca para configurar de forma simples os IOs do Arduino - versão 1.0.0
 
 ### Exemplo:
 
-![plot](Ex01.png)
+![plot](examples/Ex01/Ex01.png)
 
 ```
 
